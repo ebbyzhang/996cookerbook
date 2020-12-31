@@ -1,0 +1,6 @@
+[book]
+authors = ["Gitea"]
+language = "en"
+multilingual = false
+src = "src"
+title = "cookbook"
